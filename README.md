@@ -1,7 +1,15 @@
 # Pet-UAV
 
 Pet-проект по разработке алгоритмов автономного управления БПЛА с созданием UI-интерфейса для более удобной и наглядной апробации данных алгоритмов на симуляторе квадрокоптера.
-Udacity's FCND Simulator необходимо скачать [здесь]((https://github.com/udacity/FCND-Simulator-Releases/releases). The python code use [Udacidrone](https://udacity.github.io/udacidrone/) API to communicate with the simulator. This API use [MAVLink](http://qgroundcontrol.org/mavlink/start) protocol.
+
+Udacity's FCND Simulator необходимо скачать [здесь]((https://github.com/udacity/FCND-Simulator-Releases/releases). Python-код использует [Udacidrone](https://udacity.github.io/udacidrone/) API для связи с симулятором. Этот API использует [MAVLink](http://qgroundcontrol.org/mavlink/start) протокол.
+
+## Необходимые компоненты
+
+Для запуска этого проекта вам необходимо установить следующее программное обеспечение:
+
+- [Miniconda](https://conda.io/miniconda.html) with Python 3.6. 
+- [Udacity FCND Simulator](https://github.com/udacity/FCND-Simulator-Releases/releases) желательно последней версии.
 ## Cтек
 
 Python 3.6
