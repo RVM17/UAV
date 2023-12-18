@@ -1,9 +1,0 @@
-<parameters>
-  <line_x0>50</line_x0>
-  <line_y0>-50</line_y0>
-  <line_z>18</line_z>
-  <line_radius>50</line_radius>
-  <line_points>18</line_points>
-  <line_rect_a>100</line_rect_a>
-  <line_rect_b>100</line_rect_b>
-</parameters>
