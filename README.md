@@ -2,7 +2,7 @@
 
 Pet-проект по разработке алгоритмов автономного управления БПЛА с созданием UI-интерфейса для более удобной и наглядной апробации данных алгоритмов на симуляторе квадрокоптера.
 
-Udacity's FCND Simulator необходимо скачать ((https://github.com/udacity/FCND-Simulator-Releases/releases). 
+Udacity's FCND Simulator необходимо скачать (https://github.com/udacity/FCND-Simulator-Releases/releases). 
 
 Python-код использует [Udacidrone](https://udacity.github.io/udacidrone/) API для связи с симулятором. Этот API использует [MAVLink](http://qgroundcontrol.org/mavlink/start) протокол.
 
